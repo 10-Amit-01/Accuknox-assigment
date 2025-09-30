@@ -19,9 +19,9 @@ const App: React.FC = () => {
 
   return (
     <SidebarLayout>
-      <div className="p-10 bg-gray-100 min-h-screen">
-        <div className="flex justify-between">
-          <h1 className="text-3xl font-bold mb-6">CNAAP Dashboard</h1>
+      <div className="p-10  ">
+        <div className="flex flex-col sm:flex-row items-center justify-between">
+          <h1 className="text-3xl font-bold mb-6 whitespace-nowrap">CNAAP Dashboard</h1>
           <div className="flex items-center gap-3">
             <button
               onClick={() => {
