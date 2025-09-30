@@ -26,16 +26,8 @@ A simple React application to **add and remove dashboard widgets locally** using
 git clone https://github.com/10-Amit-01/Accuknox-assigment.git
 cd Accuknox-assigment
 
-Install dependencies
+npm i
 
-Using npm i
-
-npm install
-
-Running the App Locally
-
-Start the development server:
-
-npm start
+npm run dev
 
 Open your browser and navigate to: http://localhost:5173
