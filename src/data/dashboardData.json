@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "name": "CSPM Executive Dashboard",
+      "ShortName": "CSPM",
+      "widgets": [
+        { "id": "w1", "name": "Widget One", "text": "Random text for Widget One" },
+        { "id": "w2", "name": "Widget Two", "text": "Random text for Widget Two" }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Security Overview",
+      "ShortName": "SO",
+      "widgets": [
+        { "id": "w3", "name": "Widget Three", "text": "Random text for Widget Three" }
+      ]
+    }
+  ]
+}
+
